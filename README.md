@@ -1,5 +1,5 @@
-¡Hola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Yedinson Ortiz Cenon 
-Aprendiz SENA en Análisis y Desarrollo de Software
+¡Hola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Yedinson Ortiz Cenon
+Aprendiz SENA en Análisis y Desarrollo de Software 
 ¡Hola! Soy Yedinson Ortiz Cenon, actualmente estudiante activo del SENA en el programa tecnológico de Análisis y Desarrollo de Software (ADSO). Me apasiona el mundo de la tecnología y estoy en constante proceso de formación para crear soluciones de software eficientes, limpias y funcionales. Como parte de mi proceso de aprendizaje y desarrollo profesional, me encuentro trabajando en la creación de una plataforma web de comercio electrónico y gestión comercial para la Distribuidora de Belleza París, un proyecto real donde aplica lógica de programación, diseño web y gestión de bases de datos. * 🌍 Estoy radicado en Colombia * ✉️ Puedes contactarme en [yortizcenon@gmail.com](mailto:yortizcenon@gmail.com) * 🚀 Actualmente estoy trabajando en [Plataforma E-commerce \_ Distribuidora de Belleza Paris](http://yedinsonoc.github.io/Paris-Tailwind/) * 🧠 Actualmente estoy aprendiendo Nuevas tecnologías * 👥 Busco colaborar en Proyectos web* 💬 Pregúntame sobre Apasionado por la tecnología y el aprendizaje constante
 
 <p align="left">
